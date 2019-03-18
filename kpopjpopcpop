@@ -2,7 +2,7 @@
    "room":"Kpop ~ Jpop ~ Asian Vibes",
    "author":"TokyoSaikyo",
    "icon":"https://i.imgur.com/0Bek0VW.png",
-   "css":"https://rawgit.com/DavidStefansky/Brazil-Lounge-Exclusive/master/Brazil%20Lounge%20Exclusive2.4.css",
+   "css":"https://rawcdn.githack.com/TokyoSaikyo/cool/f309d491f2491139074bd8c45959f2f0c1e8c44e/cool.css",
    "rules":{
       "allowAutorespond":null,
       "allowAutowoot":true,
